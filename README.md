@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Joao-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/954221386359009301/1016718193139658862">
+  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1016726931091243039/1016727482159861800/picasion.com_e5b56a6a8b302f40b188d70c18835571.gif">
 </div>
   
   ##
