@@ -1,18 +1,6 @@
-### Hi there 👋
+### Hi there! I´m João Felipe👋
 
 
-**joaofelipecosta/joaofelipecosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Desenvolvimento, Manipulação banco de dados
-- 🌱 I’m currently learning Machine Leaning
-- 👯 I’m looking to collaborate on .squad 4 leaning lab.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/joaofelipecosta">
